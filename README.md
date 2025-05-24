@@ -60,13 +60,7 @@ python app.py
 
 Visit `http://localhost:5000` in your browser.
 
----
 
-## 📷 Screenshots
-
-*(Add screenshots of your app here if available.)*
-
----
 
 ## 🧠 How it Works
 

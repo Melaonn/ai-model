@@ -1,0 +1,6 @@
+gradio
+PyPDF2
+llama-cpp-python
+langchain
+sentence-transformers
+faiss-cpu
